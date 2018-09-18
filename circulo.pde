@@ -1,0 +1,9 @@
+size(600,600);
+ fill(#598B3C);
+  stroke(#808B7A);
+  strokeWeight(3);
+  ellipse(200,200,200,200);
+  stroke(0);
+  ellipse(160,170,20,20);
+  ellipse(240,170,20,20);
+  line(160,250,240,250);

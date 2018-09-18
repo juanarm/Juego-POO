@@ -1,0 +1,19 @@
+size(600,600);
+ fill(#A771A1);
+  stroke(#7CAA97);
+  strokeWeight(3);
+  beginShape();    
+  vertex(100,100);
+  vertex(115,190);
+  vertex(90,215);
+  vertex(150,230);
+  vertex(185,170);
+  vertex(145,90);
+ endShape(CLOSE);
+  stroke(0);
+line(135,190,155,195);
+ stroke(0);
+  strokeWeight(8);
+ point(120,140);
+ point(155,150);
+ 
